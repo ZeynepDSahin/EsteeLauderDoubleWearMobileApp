@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2179DC43268CCAF500FB0AAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC42268CCAF500FB0AAE /* AppDelegate.swift */; };
+		2179DC45268CCAF500FB0AAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */; };
+		2179DC47268CCAF500FB0AAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC46268CCAF500FB0AAE /* ViewController.swift */; };
+		2179DC4A268CCAF500FB0AAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2179DC48268CCAF500FB0AAE /* Main.storyboard */; };
+		2179DC4D268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC4B268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld */; };
+		2179DC4F268CCAF600FB0AAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2179DC4E268CCAF600FB0AAE /* Assets.xcassets */; };
+		2179DC52268CCAF600FB0AAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2179DC50268CCAF600FB0AAE /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2179DC3F268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EsteeLauderDoubleWearFoundation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2179DC42268CCAF500FB0AAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2179DC46268CCAF500FB0AAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2179DC49268CCAF500FB0AAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2179DC4C268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EsteeLauderDoubleWearFoundation.xcdatamodel; sourceTree = "<group>"; };
+		2179DC4E268CCAF600FB0AAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2179DC51268CCAF600FB0AAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2179DC53268CCAF600FB0AAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2179DC3C268CCAF500FB0AAE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2179DC36268CCAF500FB0AAE = {
+			isa = PBXGroup;
+			children = (
+				2179DC41268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation */,
+				2179DC40268CCAF500FB0AAE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2179DC40268CCAF500FB0AAE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2179DC3F268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2179DC41268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation */ = {
+			isa = PBXGroup;
+			children = (
+				2179DC42268CCAF500FB0AAE /* AppDelegate.swift */,
+				2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */,
+				2179DC46268CCAF500FB0AAE /* ViewController.swift */,
+				2179DC48268CCAF500FB0AAE /* Main.storyboard */,
+				2179DC4E268CCAF600FB0AAE /* Assets.xcassets */,
+				2179DC50268CCAF600FB0AAE /* LaunchScreen.storyboard */,
+				2179DC53268CCAF600FB0AAE /* Info.plist */,
+				2179DC4B268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld */,
+			);
+			path = EsteeLauderDoubleWearFoundation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2179DC3E268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2179DC56268CCAF600FB0AAE /* Build configuration list for PBXNativeTarget "EsteeLauderDoubleWearFoundation" */;
+			buildPhases = (
+				2179DC3B268CCAF500FB0AAE /* Sources */,
+				2179DC3C268CCAF500FB0AAE /* Frameworks */,
+				2179DC3D268CCAF500FB0AAE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EsteeLauderDoubleWearFoundation;
+			productName = EsteeLauderDoubleWearFoundation;
+			productReference = 2179DC3F268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2179DC37268CCAF500FB0AAE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					2179DC3E268CCAF500FB0AAE = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = 2179DC3A268CCAF500FB0AAE /* Build configuration list for PBXProject "EsteeLauderDoubleWearFoundation" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2179DC36268CCAF500FB0AAE;
+			productRefGroup = 2179DC40268CCAF500FB0AAE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2179DC3E268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2179DC3D268CCAF500FB0AAE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2179DC52268CCAF600FB0AAE /* LaunchScreen.storyboard in Resources */,
+				2179DC4F268CCAF600FB0AAE /* Assets.xcassets in Resources */,
+				2179DC4A268CCAF500FB0AAE /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2179DC3B268CCAF500FB0AAE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2179DC4D268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld in Sources */,
+				2179DC47268CCAF500FB0AAE /* ViewController.swift in Sources */,
+				2179DC43268CCAF500FB0AAE /* AppDelegate.swift in Sources */,
+				2179DC45268CCAF500FB0AAE /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2179DC48268CCAF500FB0AAE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2179DC49268CCAF500FB0AAE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2179DC50268CCAF600FB0AAE /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2179DC51268CCAF600FB0AAE /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2179DC54268CCAF600FB0AAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2179DC55268CCAF600FB0AAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2179DC57268CCAF600FB0AAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = EsteeLauderDoubleWearFoundation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "n-a.EsteeLauderDoubleWearFoundation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2179DC58268CCAF600FB0AAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = EsteeLauderDoubleWearFoundation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "n-a.EsteeLauderDoubleWearFoundation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2179DC3A268CCAF500FB0AAE /* Build configuration list for PBXProject "EsteeLauderDoubleWearFoundation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2179DC54268CCAF600FB0AAE /* Debug */,
+				2179DC55268CCAF600FB0AAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2179DC56268CCAF600FB0AAE /* Build configuration list for PBXNativeTarget "EsteeLauderDoubleWearFoundation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2179DC57268CCAF600FB0AAE /* Debug */,
+				2179DC58268CCAF600FB0AAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2179DC4B268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				2179DC4C268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodel */,
+			);
+			currentVersion = 2179DC4C268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodel */;
+			path = EsteeLauderDoubleWearFoundation.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 2179DC37268CCAF500FB0AAE /* Project object */;
+}
