@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21607B5E268E5D7C00E8789D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21607B5D268E5D7C00E8789D /* SecondViewController.swift */; };
 		2179DC43268CCAF500FB0AAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC42268CCAF500FB0AAE /* AppDelegate.swift */; };
 		2179DC45268CCAF500FB0AAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */; };
 		2179DC47268CCAF500FB0AAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2179DC46268CCAF500FB0AAE /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21607B5D268E5D7C00E8789D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2179DC3F268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EsteeLauderDoubleWearFoundation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2179DC42268CCAF500FB0AAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				2179DC44268CCAF500FB0AAE /* SceneDelegate.swift */,
 				2179DC46268CCAF500FB0AAE /* ViewController.swift */,
 				2179DC48268CCAF500FB0AAE /* Main.storyboard */,
+				21607B5D268E5D7C00E8789D /* SecondViewController.swift */,
 				2179DC4E268CCAF600FB0AAE /* Assets.xcassets */,
 				2179DC50268CCAF600FB0AAE /* LaunchScreen.storyboard */,
 				2179DC53268CCAF600FB0AAE /* Info.plist */,
@@ -143,6 +146,7 @@
 				2179DC4D268CCAF500FB0AAE /* EsteeLauderDoubleWearFoundation.xcdatamodeld in Sources */,
 				2179DC47268CCAF500FB0AAE /* ViewController.swift in Sources */,
 				2179DC43268CCAF500FB0AAE /* AppDelegate.swift in Sources */,
+				21607B5E268E5D7C00E8789D /* SecondViewController.swift in Sources */,
 				2179DC45268CCAF500FB0AAE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
